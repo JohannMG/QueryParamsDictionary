@@ -1,0 +1,23 @@
+{
+  "name": "query-params-dictionary",
+  "version": "0.5.0",
+  "description": "Turn a URL Query string into a dictionary of strings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohannMG/QueryParamsDictionary.git"
+  },
+  "keywords": [
+    "query",
+    "dictionary"
+  ],
+  "author": "JohannMG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JohannMG/QueryParamsDictionary/issues"
+  },
+  "homepage": "https://github.com/JohannMG/QueryParamsDictionary#readme"
+}
