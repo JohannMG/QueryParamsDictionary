@@ -4,7 +4,7 @@
   "description": "Turn a URL Query string into a dictionary of strings.",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "./node_modules/mocha/bin/mocha"
   },
   "repository": {
     "type": "git",
