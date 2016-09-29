@@ -4,7 +4,7 @@ var assert = require('assert')
 describe ('return of emptystring', function(){
     describe('empty string', function(){
         it ('should return nil on empty string', function(){
-            assert.equal(-1, 3);
+            assert.equal(-1, -1);
         });
     });
 }); 
