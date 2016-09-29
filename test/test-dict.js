@@ -7,7 +7,7 @@ describe ('return of emptystring', function(){
             assert.equal(-1, 3);
         });
     });
-});
+}); 
 
 /*
 
